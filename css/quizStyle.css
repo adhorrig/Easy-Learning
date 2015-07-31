@@ -1,0 +1,11 @@
+#fontsize{
+font-size:20px;
+}
+
+
+input[type=checkbox]:not(old),
+input[type=radio   ]:not(old){
+  width     : 2em;
+  padding   : 0;
+  font-size : 1em;
+}

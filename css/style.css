@@ -1,0 +1,54 @@
+body
+{background-color:#109a8d; 
+} 
+
+
+#wrapper{
+width:600px;
+margin:0px auto; 
+
+} 
+
+
+#slider{
+width:600px;
+height:400px; 
+overflow:hidden; 
+margin:30px auto; 
+}
+
+#slider > img{
+width:600px;
+height:400px; 
+float:left;
+display:none;
+
+}
+
+audio {
+   Width:220px; 
+   height:30px;
+   color:green; 
+} 
+
+#welcome{
+font-size:30px;
+
+}
+
+
+#result img{
+width:100px;
+height:100px;
+}
+
+#quiz_result{
+margin-left:350px;
+}
+
+
+
+
+
+
+
