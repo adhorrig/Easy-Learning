@@ -1,0 +1,2 @@
+A project developed as part of a second year module, with the goal of helping children learn through Gamification. 
+The structure of this project still pains me to this day, one day I'll refactor. Although a full re-write would probably be easier and less painfail. 
